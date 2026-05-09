@@ -87,7 +87,7 @@ export default function App() {
           <div style={styles.headerTop}>
             <div>
               <h1 style={styles.title}>MisTareas</h1>
-              <p style={styles.subtitle}>Convergencia Tecnológica · Productividad</p>
+              <p style={styles.subtitle}></p>
             </div>
             <div style={styles.badge}>
               <span style={styles.badgeNum}>{pending}</span>
